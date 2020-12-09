@@ -1,0 +1,6 @@
+com\cainiao\web\interceptor\SystemInterceptor.class
+com\cainiao\web\controller\BaseController.class
+com\cainiao\web\service\impl\BaseServiceImpl.class
+com\cainiao\web\util\ContextProvider.class
+com\cainiao\web\dao\BaseDao.class
+com\cainiao\web\service\BaseService.class

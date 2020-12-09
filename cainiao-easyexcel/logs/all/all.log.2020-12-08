@@ -1,0 +1,7 @@
+2020-12-08 21:36:28  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 21:36:28  [ main:25 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 21:36:28  [ main:280 ] - [ DEBUG ]  Use map cache.size:229
+2020-12-08 21:36:29  [ main:550 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 21:36:29  [ main:550 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@61d47554
+2020-12-08 21:36:29  [ main:605 ] - [ INFO ]  解析到一条头数据:{0:"姓名",1:"日期"}
+2020-12-08 21:36:29  [ main:650 ] - [ INFO ]  read 1 rows

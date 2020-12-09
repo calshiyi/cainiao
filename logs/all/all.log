@@ -1,0 +1,71 @@
+2020-12-08 16:28:30  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:28:30  [ main:30 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:32:11  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:32:12  [ main:33 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:35:01  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:35:01  [ main:34 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:35:51  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:35:51  [ main:133 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:40:39  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:40:39  [ main:20 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:40:40  [ main:491 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 16:40:40  [ main:491 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@25af5db5
+2020-12-08 16:40:40  [ main:566 ] - [ INFO ]  执行完毕
+2020-12-08 16:42:27  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:42:28  [ main:18 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:42:28  [ main:406 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 16:42:28  [ main:407 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@25af5db5
+2020-12-08 16:42:28  [ main:463 ] - [ INFO ]  执行完毕
+2020-12-08 16:42:52  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:42:52  [ main:16 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:42:52  [ main:404 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 16:42:52  [ main:404 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@25af5db5
+2020-12-08 16:42:52  [ main:454 ] - [ INFO ]  执行完毕
+2020-12-08 16:43:12  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:43:12  [ main:18 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:43:13  [ main:387 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 16:43:13  [ main:388 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@25af5db5
+2020-12-08 16:43:13  [ main:441 ] - [ INFO ]  执行完毕
+2020-12-08 16:43:23  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:43:23  [ main:19 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:43:23  [ main:409 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 16:43:23  [ main:409 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@25af5db5
+2020-12-08 16:43:24  [ main:546 ] - [ INFO ]  执行完毕
+2020-12-08 16:47:04  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:47:04  [ main:27 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:47:04  [ main:423 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 16:47:04  [ main:423 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.ReadSheetHolder@37d31475
+2020-12-08 16:47:04  [ main:478 ] - [ INFO ]  执行完毕
+2020-12-08 16:48:01  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:48:01  [ main:39 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:48:01  [ main:448 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 16:48:01  [ main:449 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@776b83cc
+2020-12-08 16:48:01  [ main:514 ] - [ INFO ]  执行完毕
+2020-12-08 16:52:14  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:52:14  [ main:33 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:52:14  [ main:297 ] - [ DEBUG ]  Use map cache.size:229
+2020-12-08 16:52:14  [ main:560 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:52:14  [ main:560 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@19d481b
+2020-12-08 16:52:14  [ main:586 ] - [ INFO ]  执行完毕
+2020-12-08 16:56:03  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is NONE
+2020-12-08 16:56:03  [ main:19 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 16:56:04  [ main:307 ] - [ DEBUG ]  Use map cache.size:229
+2020-12-08 17:37:58  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 17:37:58  [ main:26 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 17:37:58  [ main:327 ] - [ DEBUG ]  Use map cache.size:229
+2020-12-08 17:38:52  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 17:38:52  [ main:22 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 17:38:53  [ main:306 ] - [ DEBUG ]  Use map cache.size:229
+2020-12-08 17:39:11  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 17:39:11  [ main:20 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 17:39:11  [ main:314 ] - [ DEBUG ]  Use map cache.size:229
+2020-12-08 17:39:12  [ main:581 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 17:39:12  [ main:582 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@23fe1d71
+2020-12-08 17:39:12  [ main:647 ] - [ INFO ]  执行完毕
+2020-12-08 17:50:50  [ main:0 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 17:50:50  [ main:21 ] - [ DEBUG ]  Initialization 'AnalysisContextImpl' complete
+2020-12-08 17:50:50  [ main:295 ] - [ DEBUG ]  Use map cache.size:229
+2020-12-08 17:50:50  [ main:553 ] - [ DEBUG ]  The initialization sheet/table 'ExcelHeadProperty' is complete , head kind is CLASS
+2020-12-08 17:50:50  [ main:553 ] - [ DEBUG ]  Began to read：ReadSheetHolder{sheetNo=0, sheetName='Sheet1'} com.alibaba.excel.read.metadata.holder.xlsx.XlsxReadSheetHolder@23fe1d71
+2020-12-08 17:50:51  [ main:612 ] - [ INFO ]  解析到一条头数据:{0:"姓名",1:"日期"}
+2020-12-08 17:50:51  [ main:667 ] - [ INFO ]  read 1 rows
